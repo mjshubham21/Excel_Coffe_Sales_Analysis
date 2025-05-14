@@ -11,7 +11,9 @@ This project features a detailed **Coffee Sales Dashboard** designed to present 
 ---
 
 ## 🛠️ Tool Used  
-![Excel Logo](https://github.com/mjshubham21/Excel_Coffe_Sales_Analysis/blob/main/images/microsoft-excel.png)  
+<p align="center">
+  <img src="https://github.com/mjshubham21/Excel_Coffe_Sales_Analysis/blob/main/images/microsoft-excel.png" alt="Microsoft Excel Logo" width="150"/>
+</p>  
 This analysis was conducted entirely using **Microsoft Excel**, leveraging its capabilities for data visualization, trend analysis, and business intelligence.
 
 ---
