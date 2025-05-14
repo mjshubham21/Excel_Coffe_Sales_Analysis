@@ -1,32 +1,69 @@
-# Excel Data Analysis Project by Shubham Pawar
-# Coffee Sales Dashboard
+# ☕ Excel Data Analysis Project by Shubham Pawar
+
+## 📊 Coffee Sales Dashboard  
 ![Coffee Background Banner (4)](https://github.com/mjshubham21/Excel_Coffe_Sales_Analysis/blob/main/images/Banner.png)
 
-## Overview : 
-This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
+---
 
-## Tool used :
-<img src="./microsoft-excel.png" width="300" height="150"/>&nbsp;
+## 📌 Overview  
+This project features a detailed **Coffee Sales Dashboard** designed to present insights to the **Regional Manager** of a coffee chain operating across **three store locations**. The dashboard offers a comprehensive view of sales and customer behavior, enabling data-driven decisions aimed at **optimizing operations and resource planning**.
 
+---
 
-## Result and Insights :
-- I have noticed that the Revenue is continuously growing.
-- The busiest days are Mondays, Thursdays, and Fridays. This makes sense since people like to visit coffee shops when they are all jacked up for work.
-- The busiest hours are in the mornings when people are visiting their offices.
-- This trend is similar for all the stores.
-- The top category is coffee and the product is Barista Espresso across the board.
+## 🛠️ Tool Used  
+![Excel Logo](https://github.com/mjshubham21/Excel_Coffe_Sales_Analysis/blob/main/images/microsoft-excel.png)  
+This analysis was conducted entirely using **Microsoft Excel**, leveraging its capabilities for data visualization, trend analysis, and business intelligence.
 
-## Additional Insights
-- We can see a continuous growth in revenue which indicates increasing popularity and success of the business
-- We can see a drastic increment in the revenue in May indicating that people are visiting the cafes often or in greater numbers
-- This could be due to the  holiday season and we should be prepared for this trend next year
-- Resource management for peak months
+---
+
+## 📁 Dataset  
+You can view the dataset used in this project here:  
+🔗 [Coffee Shop Sales Dataset (Excel)](https://github.com/mjshubham21/Excel_Coffe_Sales_Analysis/blob/main/Coffee%20Shop%20Sales_DATASET.xlsx)
+
+---
+
+## 🎯 Key Performance Indicators (KPIs)  
+The dashboard focuses on the following business-critical KPIs:
+
+- 💰 **Total Revenue** – Overall income generated across all stores  
+- 📦 **Sales Volume** – Number of transactions or products sold  
+- 🕒 **Peak Sales Hours** – Time periods with the highest customer activity  
+- 📅 **Top Performing Days** – Days with maximum revenue or traffic  
+- 🛍️ **Top Products by Category** – Best-selling products across various categories  
+- 🏬 **Store-Wise Performance** – Comparative analysis of all three store locations  
+- 📉 **Low-Performing Items** – Items contributing the least to revenue  
+- 📈 **Monthly Revenue Trends** – Seasonality and patterns in monthly performance  
+- 👕 **Merchandise Sales** – Tracking non-consumable product performance  
+- ⚙️ **Operational Efficiency Insights** – Resource planning suggestions based on sales trends
+
+---
+
+## 📈 Key Insights  
+- 📈 **Revenue has shown consistent growth**, indicating strong business performance.  
+- 📅 **Peak days** are **Mondays, Thursdays, and Fridays**, aligning with high-energy workdays.  
+- ⏰ **Busiest hours** are in the **morning**, coinciding with office commute hours.  
+- 🏬 These patterns are **consistent across all three stores**.  
+- 🥇 The **best-selling category** is **Coffee**, with **Barista Espresso** being the top product.
+
+---
+
+## 🔍 Additional Insights  
+- 📊 Sustained revenue growth suggests **increasing customer engagement**.  
+- 🌸 A **notable revenue spike in May** may be attributed to **holiday season trends** — future resource planning should account for this.  
+- 📦 Consider **stock and staff planning for peak periods** to improve efficiency and customer experience.
 
 ![image](https://github.com/user-attachments/assets/16df1cba-d0fe-4dba-a1a9-e1e330c58dbf)
 
+---
 
-## Data Story :
-I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce the costs of operations.
+## 📚 Data Story  
+- 📉 **Low-performing products** include certain **flavored variants, coffee beans, and merchandise**.  
+- 🧥 Notably, **merchandise clothing sales** at the **Hell's Kitchen store** are significantly lower than other locations.  
+- 💡 Recommendations:  
+  - Introduce **promotional offers** to boost sales in that region.  
+  - Alternatively, consider **removing such items from in-store displays** and offering them as **order-only** to **reduce operational costs**.
 
-## Dashboard :
+---
+
+## 📎 Dashboard Snapshot  
 ![Dashboard Screenshot](https://github.com/mjshubham21/Excel_Coffe_Sales_Analysis/blob/main/images/Dashboard.png)
